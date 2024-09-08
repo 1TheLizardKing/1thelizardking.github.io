@@ -28,7 +28,7 @@ body > header > nav > ul{
 }
 
 body > header{
-   background-color: orange;
+   background-color:#4FB0C6 ;
    color: white;
    display: flex;
    height: 12vh;
@@ -68,7 +68,7 @@ h2{
 }
 
 body > footer{
-   background-color: orange;
+   background-color: #4FB0C6;
    display: flex;
 }
 
@@ -92,4 +92,8 @@ img{
 
 #main-content aside {
    margin-left: 20px;
+}
+
+footer > h2 {
+   color: white;
 }
